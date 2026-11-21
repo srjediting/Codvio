@@ -21,6 +21,11 @@ Just write a prompt — Codvio writes and edits real code directly inside your p
 2. Download **Codvio.apk** from the latest release
 3. Open the file and install it — if Android asks, allow "Install unknown apps" for your browser/file manager (this is normal for apps installed outside the Play Store)
 
+## 📢 Stay Updated
+
+Join the official **Codvio WhatsApp channel** for updates, new features and release news:
+👉 **https://whatsapp.com/channel/0029Vb9fAse42DcWjycANU32**
+
 ## 🧰 You Also Need These Two Apps
 
 Codvio writes the code — but to build your project into a real app, you need two free companion apps. This is the exact setup Codvio is designed for:
