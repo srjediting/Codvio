@@ -21,12 +21,44 @@ Just write a prompt — Codvio writes and edits real code directly inside your p
 2. Download **Codvio.apk** from the latest release
 3. Open the file and install it — if Android asks, allow "Install unknown apps" for your browser/file manager (this is normal for apps installed outside the Play Store)
 
-## 🚀 Getting Started
+## 🧰 You Also Need These Two Apps
 
-1. Open Codvio and complete the one-time setup (storage, notifications, background permission)
-2. Add your AI provider's API key in **Settings → Providers**
-3. Choose your project folder (for example, a project you keep in HopWeb or Code On The Go — Codvio edits the same folder directly)
-4. Write your first prompt — and watch your app get built
+Codvio writes the code — but to build your project into a real app, you need two free companion apps. This is the exact setup Codvio is designed for:
+
+### 1. Code On The Go — builds the APK
+An IDE that builds Android apps right on your phone. It takes your project folder and builds a real, installable APK from it.
+📥 **Download: https://www.appdevforall.org/code-on-the-go/**
+
+### 2. HopWeb — for website projects
+A mobile IDE for web projects (HTML / CSS / JS / PHP) — create your website project here, edit it and preview it live on your phone.
+📥 **Download: https://apkpure.net/hopweb-edit-run-php-html/com.venter.hopweb**
+
+## 🪜 Full Setup — Step by Step (for beginners)
+
+**Step 1 — Install the apps**
+Install Codvio (from the Releases page above), Code On The Go and HopWeb (links above).
+
+**Step 2 — Create your project**
+- For an **Android app**: open **Code On The Go** and create a new project (or open an existing one).
+- For a **website**: open **HopWeb** and create your project there.
+
+**Step 3 — Connect Codvio to the SAME folder**
+1. Open **Codvio** and finish the one-time setup (allow Storage, Notifications and Background permissions).
+2. Add your AI provider's API key in **Settings → Providers**.
+3. Start a new session and **choose the same project folder** you created in Step 2.
+   👉 Codvio edits that very folder directly — nothing is copied or moved. Whatever Codvio writes, the other app sees instantly.
+
+**Step 4 — Build with a prompt**
+Write what you want in plain words, like *"Build a fitness app with a home screen and a workout timer."* Codvio's agent creates and edits the files for you. If it asks permission to edit a file or run a command, tap **Allow**.
+
+**Step 5 — Make the APK**
+1. Open **Code On The Go** — your project is already there, with all of Codvio's changes.
+2. Tap **Build / Run** and wait for the build to finish.
+3. Install the APK it creates — your app is ready! 🎉
+
+For **websites**: open the same project in **HopWeb** to see your site live.
+
+💡 **Tip:** If something doesn't work, just tell Codvio in the same session what is wrong — it will check and fix its own work.
 
 ## 📌 Note
 
