@@ -39,7 +39,7 @@ A mobile IDE for web projects (HTML / CSS / JS / PHP) — create your website pr
 Install Codvio (from the Releases page above), Code On The Go and HopWeb (links above).
 
 **Step 2 — Create your project**
-- For an **Android app**: open **Code On The Go**, create a new project and choose the **Compose Activity** template — this is important, because Codvio builds modern Compose apps. (If your project already exists, just open it.)
+- For an **Android app**: open **Code On The Go** and tap **New project**. A list of templates will appear — select **Compose Activity** (this is important, because Codvio builds modern Compose apps). Then fill in your app's name and tap **Create**. (If your project already exists, just open it.)
 - For a **website**: open **HopWeb** and create your project there.
 
 **Step 3 — Connect Codvio to the SAME folder**
