@@ -4,5 +4,13 @@
   "url": "https://github.com/srjediting/Codvio/releases/download/env-v3-direct/codvio-env-v3-direct.zip",
   "size": 468755848,
   "sha256": "58cbd3004756075ceeb90a0a2917537da2c9a10710527e8a69ff5f4bcd53bbca",
-  "notes": "Direct environment — 207 packages: Node, Python, git, clang, Java, ffmpeg."
+  "notes": "Direct environment — 207 packages: Node, Python, git, clang, Java, ffmpeg.",
+  "minimal": {
+    "version": 1,
+    "name": "Environment — Direct (Minimal)",
+    "url": "https://github.com/srjediting/Codvio/releases/download/env-v3-minimal/codvio-env-v3-minimal.zip",
+    "size": 38060420,
+    "sha256": "34b4114ca1bf8a1f6d021740dabf55c98ea527dc497c7a598ccab64e81b5113f",
+    "notes": "Minimal direct environment — bash, pkg/apt, core tools + glibc. Node, Python and git install on demand via pkg."
+  }
 }
