@@ -13,12 +13,15 @@ Just write a prompt — Codvio writes and edits real code directly inside your p
 - **You stay in control** — Codvio asks permission before editing files or running commands, and every change can be undone
 - **Skills** — built-in skills included, and you can import your own skills from GitHub or from a file
 - **Background sessions & voice input** — long tasks keep running while you do other things
-- **Meet Vio** 💜 — a friendly floating companion who reacts while the agent works
+- **Meet Vio** 💜 — a friendly floating companion who reacts while the agent works. New in v2.0: speech bubbles show what the agent is doing (Thinking, Typing, Working, Done), and if you fling Vio he bounces off the screen edge, goes dizzy with spinning eyes, and reacts with fun messages
+- **Built-in Linux environment** — Codvio sets up a real Linux system inside the app itself (Direct edition — no root and no separate terminal app needed), with Node, Python, git, clang, Java, ffmpeg and more ready to use
+- **Movable panel button** — drag the round arrow button anywhere on the screen; it snaps to the edge and remembers its position
+- **Clean, simple setup** — installing the environment shows only simple steps (Downloading, Extracting, Verifying, Setting up, Done) — no confusing technical output
 
 ## 📥 Download & Install
 
 1. Go to the **[Releases](https://github.com/srjediting/Codvio/releases)** page of this repository
-2. Download **Codvio.apk** from the latest release
+2. Download **Codvio-v2.0.apk** from the latest release ([v2.0](https://github.com/srjediting/Codvio/releases/tag/v2.0))
 3. Open the file and install it — if Android asks, allow "Install unknown apps" for your browser/file manager (this is normal for apps installed outside the Play Store)
 
 ## 📢 Stay Updated
@@ -48,7 +51,7 @@ Install Codvio (from the Releases page above), Code On The Go and HopWeb (links 
 - For a **website**: open **HopWeb** and create your project there.
 
 **Step 3 — Connect Codvio to the SAME folder**
-1. Open **Codvio** and finish the one-time setup (allow Storage, Notifications and Background permissions).
+1. Open **Codvio** and finish the one-time setup (allow Storage, Notifications and Background permissions). When the app offers to set up its Linux environment, tap the Full pack and let it finish — this is a one-time download, and the screen shows simple steps until it says Done.
 2. Add your AI provider's API key in **Settings → Providers**.
 3. Start a new session and **choose the same project folder** you created in Step 2.
    👉 Codvio edits that very folder directly — nothing is copied or moved. Whatever Codvio writes, the other app sees instantly.
@@ -67,7 +70,7 @@ For **websites**: open the same project in **HopWeb** to see your site live.
 
 ## 📌 Note
 
-Codvio is in early release (**v1.0**). The APK in Releases is a direct build, not the Play Store version — it works fully, and a Play Store release is planned.
+Codvio is currently at **v2.0** (Direct edition — the Linux environment runs directly inside the app). The APK in Releases is a direct build, not the Play Store version — it works fully, and a Play Store release is planned.
 
 ---
 
